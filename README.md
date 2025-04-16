@@ -1,3 +1,8 @@
+# Info
+This repository contains Group 10, RC Laser Tanks, final code at the time of presenting this project. This code was created using python on a raspberry pi 4 model b and is used to run a game in which the players use an xbox controller connected to the pi via bluetooth to control the tanks. The tanks work by using IR LEDs and IR sensors on the tanks for firing while using two rear wheels controlled by motors and two front caster wheels. The motors are controlled using L298N motor drivers powered by an external 12 V battery.
+
+Thank you to github user Berardinux for his Blackbriar repository and youtube videos that taugh us how to use an xbox controller to control our tanks. His repo can be found here: https://github.com/Berardinux/Blackbriar
+
 # Connect Xbox Controller to bluetooth
 bluetoothctl
 
